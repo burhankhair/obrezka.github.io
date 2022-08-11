@@ -1,0 +1,72 @@
+body{
+    font-family: 'Montserrat';
+}
+
+/* BRAND NAME --- OBREZKA */
+
+#obrezka{
+    font-size: 200%;
+}
+
+.navbar-brand{
+    font-family: 'Montserrat';
+    font-size: 4rem;
+
+}
+
+
+.navbar-toggler {
+    font-size: 2rem;
+}
+
+
+#title{
+    /* background-color: rgb(223, 199, 121); */
+}
+
+div.container-fluid{
+    /* padding: 3% 10%; */
+}
+
+h1 {
+    font-family: 'Montserrat';
+    line-height: 1.5;
+    font-size: 2rem;
+}
+
+#features{
+    padding-left: 10%;
+} 
+.carousel-image{
+    
+    width: 300px;
+} 
+
+#new-arrivals{
+    padding-top: 2%;
+}
+
+
+section h3 {
+    font-size: 2rem;
+    text-align: center;
+    font-family: 'Montserrat';
+}
+
+
+
+/* Item Images  */
+ 
+.item-images{
+    padding-bottom: 10%;
+}
+
+
+/* Text on carousel images  */
+
+
+.txt{
+    position: relative;
+    top: 100px;
+    display: inline-block;
+}
